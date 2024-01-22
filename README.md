@@ -11,7 +11,8 @@
 *Date:* 5-6th December 2023 <br>
 
 # Video
-
+[:camera_flash: VIDEO SUMMARY (COMPRESSED)](video_industrialvisit1compressed.mp4) <br>
+[:video_camera: VIDEO SUMMARY (GOOGLE DRIVE)](https://drive.google.com/file/d/1OoRXhWUz5E6maABES0DvGL-ID_vT4sIQ/view?usp=sharing)
 
 
 # Reflection
